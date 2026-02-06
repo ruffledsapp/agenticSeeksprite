@@ -188,6 +188,8 @@ Next step: [Start services and run AgenticSeek](#Start-services-and-Run)
 
 This setup uses external, cloud-based LLM providers. You'll need an API key from your chosen service.
 
+For a focused walkthrough on using **GLM-4.7 with ZAI on macOS**, see [`docs/GLM47_ZAI_MAC_GUIDE.md`](docs/GLM47_ZAI_MAC_GUIDE.md).
+
 **1. Choose an API Provider and Get an API Key:**
 
 Refer to the [List of API Providers](#list-of-api-providers) below. Visit their websites to sign up and obtain an API key.
